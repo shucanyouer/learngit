@@ -3,3 +3,4 @@ Git is free software distributed under the GPL anthor dwl.
 Git has a mutable index called stage.
 Git tracks changes of files.
 My stupid boss still perfers SVN.
+Creating a new branch is quick & simple.
